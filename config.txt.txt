@@ -1,5 +1,12 @@
 <html>
 <body>
+<h1> hii welcome to my website </h1>
+<h2> hello how can i help you</h2>
+<h3> we are from the non it backgropund </h3>
+<h4> we are here to learn DevOps with AWS </H4>
+<h5> aws is a amazon webservice </h5>
+<h6> aws is the leading cloud platform in marketing </h6>
+<p> aws having global infrstructure it means aws have 24 regions and 84 avilability zones
 <h1> user name : kamal
 <h2> passwd: kamal4916@
 </body>
